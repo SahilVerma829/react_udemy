@@ -10,6 +10,7 @@ function App() {
     <>
       <h1>Hi, I am Sahil Verma</h1>
       <p>This is my first project of react in 2026, when i start learning.</p>
+      <p>Iam From Rajasthan</p>
     </>
   )
 }
